@@ -1,0 +1,2 @@
+include ':app', ':usbserial-6.0.5-release'
+include ':P4MissionsDemo'
